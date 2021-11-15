@@ -1,3 +1,6 @@
-remote_theme: pages-themes/primer@v0.2.0
+remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme
+
+title: Lidská Strava
+description: Zdravá strava pro lidi, zakládající se na konzumaci minimálního množství velkoprůmyslově (ultra) zpracovaných potravin.
