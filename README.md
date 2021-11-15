@@ -1,3 +1,6 @@
+# Lidská Strava
+Zdravá strava pro lidi, zakládající se na konzumaci minimálního množství velkoprůmyslově (ultra) zpracovaných potravin
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dvorapat/Lidska-Strava/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
