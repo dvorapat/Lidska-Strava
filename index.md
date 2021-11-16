@@ -1,4 +1,4 @@
 # Lidská Strava
 https://lidskastrava.eu/
 
-Zdravá strava pro lidi, zakládající se na konzumaci minimálního množství velkoprůmyslově (ultra) zpracovaných potravin
+Zdravá lidská strava, zakládající se na konzumaci minimálního množství velkoprůmyslově (ultra) zpracovaných potravin.
